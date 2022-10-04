@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+    <context-param>
+        <param-name>jdbc</param-name>
+        <param-value>/jdbc.properties</param-value>
+    </context-param>
+    <!--注意!-->
+    <!--maven工程打包时web的名字只能是webapp才能打成war,才不会报错,里面才有web.xml文件-->
+</web-app>

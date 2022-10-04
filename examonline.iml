@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="false" type="J2EE_WEB_MODULE" version="4">
+  <component name="WebModuleBuildComponent">
+    <setting name="EXPLODED_URL" value="file://$MODULE_DIR$/target/examonline" />
+  </component>
+  <component name="WebModuleProperties">
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/mysql-connector-java-8.0.30.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/protobuf-java-3.19.4.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="0" />
+      <attribute name="URI" value="/WEB-INF/lib/javax.servlet-api-4.0.1.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/mail-1.4.7.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/javax/mail/mail/1.4.7/mail-1.4.7.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/activation-1.1.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/javax/activation/activation/1.1/activation-1.1.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/lombok-1.18.24.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/commons-fileupload-1.4.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/commons-fileupload/commons-fileupload/1.4/commons-fileupload-1.4.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/commons-io-2.2.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/commons-io/commons-io/2.2/commons-io-2.2.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/easyexcel-3.1.1.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/com/alibaba/easyexcel/3.1.1/easyexcel-3.1.1.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/easyexcel-core-3.1.1.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/com/alibaba/easyexcel-core/3.1.1/easyexcel-core-3.1.1.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/easyexcel-support-3.1.1.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/com/alibaba/easyexcel-support/3.1.1/easyexcel-support-3.1.1.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/slf4j-api-1.7.32.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/poi-4.1.2.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/org/apache/poi/poi/4.1.2/poi-4.1.2.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/commons-codec-1.13.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/commons-codec/commons-codec/1.13/commons-codec-1.13.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/commons-collections4-4.4.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/commons-math3-3.6.1.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/SparseBitSet-1.2.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/poi-ooxml-4.1.2.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/org/apache/poi/poi-ooxml/4.1.2/poi-ooxml-4.1.2.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/poi-ooxml-schemas-4.1.2.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/org/apache/poi/poi-ooxml-schemas/4.1.2/poi-ooxml-schemas-4.1.2.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/xmlbeans-3.1.0.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/commons-compress-1.19.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/org/apache/commons/commons-compress/1.19/commons-compress-1.19.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/curvesapi-1.06.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/commons-csv-1.8.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/org/apache/commons/commons-csv/1.8/commons-csv-1.8.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/ehcache-3.9.9.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/org/ehcache/ehcache/3.9.9/ehcache-3.9.9.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/druid-1.2.11.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/com/alibaba/druid/1.2.11/druid-1.2.11.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/fastjson-2.0.12.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/com/alibaba/fastjson/2.0.12/fastjson-2.0.12.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/fastjson2-extension-2.0.12.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/com/alibaba/fastjson2/fastjson2-extension/2.0.12/fastjson2-extension-2.0.12.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1" />
+      <attribute name="URI" value="/WEB-INF/lib/fastjson2-2.0.12.jar" />
+      <url>jar://$MODULE_DIR$/../../../ProgramData/mavenRepo/com/alibaba/fastjson2/fastjson2/2.0.12/fastjson2-2.0.12.jar!/</url>
+    </containerElement>
+    <deploymentDescriptor version="2.3" name="web.xml" optional="false" url="file://$MODULE_DIR$/src/main/webapp/WEB-INF/web.xml" />
+    <webroots>
+      <root relative="/" url="file://$MODULE_DIR$/src/main/webapp" />
+    </webroots>
+  </component>
+</module>
